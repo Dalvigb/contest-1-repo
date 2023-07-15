@@ -17,7 +17,7 @@
     font-size: 16px;
   }
  table{
-    width: 50%;
+    width: 80%;
     border-color: black;
     border-style:outset;
     border-collapse: collapse;
@@ -25,14 +25,14 @@
   }
   th, td {
     padding: 10px;
-    border-color: brown;
+    border-color: black;
     text-align: left;
     border-right-style: outset;
      
     
   }
   thead th {
-    border-color: brown;
+    border-color: black;
     border-collapse: collapse;
     border-style:outset;  
     
@@ -44,4 +44,3 @@
     font-weight: bold;
     
   }
-  
